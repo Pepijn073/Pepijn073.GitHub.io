@@ -34,8 +34,7 @@ a:active{ font-size : 20pt; font-family:arial; color:white; }
 a:hover { border-width : thin; border-color: #ffffff; background-color:#000000; font-size : 20pt; font-family:arial;
 
 
-
-body {
+{
     background-image: url("http://vertassets.blob.core.windows.net/image/acac085d/acac085d-f27f-4e5c-a6ea-2802969a0ee3/fcc.jpg");height:100%;width:100%;
     background-repeat: no-repeat;
     background-position: center;
