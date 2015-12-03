@@ -6,7 +6,7 @@
   }
 .myTableText td, 
 .myTableText th { 
- solid #000000;
+ solid: #000000;
   }
 .myTableText th { 
   background-color: #000000; 
