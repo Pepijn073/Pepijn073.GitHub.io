@@ -42,4 +42,10 @@ body { height:700px ;
     background-attachment: fixed;
 }
 
+img {
+  margin-left: 0;
+  margin-right: 0;
+}
+}
+
 
