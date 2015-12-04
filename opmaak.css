@@ -1,2 +1,48 @@
 
+.myTableText { 
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #000000; 
+  }
+.myTableText td, 
+.myTableText th { 
+  border: 2px solid #000000;
+  padding: 5px; 
+  }
+.myTableText th { 
+  font: bold 18px/1.1em Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 4px black; 
+  letter-spacing: 0.1em; 
+  background-color: #000000; 
+  color:#000000; 
+  }
+.myTableText td { 
+  font: normal 14px/1.5em Goudy, Georgia, serif;
+  color: #000000; 
+  }
+.myTableText td a:link { 
+  color: #ffffff;
+  text-decoration: none; 
+  }
+.myTableText td a:visited { 
+  color: #000000; 
+  }
+.myTableText td a:hover { 
+  color: #ffffff;
+  text-decoration: underline; 
+  }
+.myTableText td a:active { 
+  color: #ffffff; 
+  }
+a:link{font-size : 20pt; font-family:arial; color:white; }
+a:visited{ font-size : 20pt; font-family:arial; color:white;}
+a:active{ font-size : 20pt; font-family:arial; color:white; }
+a:hover { border-width : thin; border-style: dotted; border-color: #ffffff; background-color:#000000; font-size : 20pt; font-family:arial; color:white;}
 
+body {
+    background-image: url("http://vertassets.blob.core.windows.net/image/acac085d/acac085d-f27f-4e5c-a6ea-2802969a0ee3/fcc.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-right: 0px;
+    background-attachment: fixed;
+}
